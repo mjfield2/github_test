@@ -38,6 +38,7 @@ Increase your GitHub presence by putting code that you already have on GitHub. Y
 4. First add and commit and push your README and .gitignore to get started to ensure that the files are ignored later. Run `git add README.md .gitignore`. Commit those changes and push them. Check on GitHub that the changes have been pushed.
 5. Add the rest of the files. Run `git add .` (The period means add everything). Commit and push the changes.
 6. Add a license on GitHub. There are templates you can use on GitHub.
+7. Make a change on your local instance. Maybe update the README, whatever you want. Run `git status` to see uncommitted changes. Run `git add .` to add the file, `git commit -m "your message"` and `git push origin main` to send your changes to GitHub.
 
 ## Other Notes
 
